@@ -54,12 +54,6 @@ The L298N is a dual H-Bridge motor driver which allows speed and direction contr
 
 ## PROGRAM:
 ~~~
-/*
-Program to control the motor using driver circuits, relays and Arduino UNO controller.
-Developed by: Issac.J
-RegisterNumber:  212220040054
-*/
-
 #define in1 6
 #define in2 7
 #define button 4
